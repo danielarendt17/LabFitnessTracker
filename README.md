@@ -20,3 +20,8 @@ Calories Burned: 600.0 calories
 
 ## Author
 Daniel Arendt
+
+================================
+## Code Review
+- **Reviewed by:** Arjo Rosato
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
